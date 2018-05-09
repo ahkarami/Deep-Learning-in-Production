@@ -16,3 +16,5 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Convert Keras Models in Production:
 - [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/) [_Rank: 1st & General Usefult Tutorial_]
+- [Deploying your Keras model](https://medium.com/@burgalon/deploying-your-keras-model-35648f9dc5fb)
+- [Deploying your Keras model using Keras.JS](https://becominghuman.ai/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
