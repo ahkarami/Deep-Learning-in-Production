@@ -1,6 +1,10 @@
 # Deep-Learning-in-Production
 In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 
+<p align="center">
+  <img src="./Final-Logo.jpg?raw=true" alt="Logo"/>
+</p>
+
 ## Convert PyTorch Models in Production:
 - [The road to 1.0: production ready PyTorch](https://pytorch.org/2018/05/02/road-to-1.0.html)
 - [PyTorch model recognizing hotdogs and not-hotdogs deployed on flask](https://github.com/jaroslaw-weber/hotdog-not-hotdog)
