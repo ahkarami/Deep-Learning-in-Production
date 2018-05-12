@@ -10,6 +10,8 @@ In this repository, I will share some useful notes and references about deployin
 - [PyTorch model recognizing hotdogs and not-hotdogs deployed on flask](https://github.com/jaroslaw-weber/hotdog-not-hotdog)
 - [Flask application to support pytorch model prediction](https://github.com/craigsidcarlson/PytorchFlaskApp)
 - [Serving PyTorch Model on Flask Thread-Safety](https://discuss.pytorch.org/t/serving-pytorch-model-on-flask-thread-safety/13921)
+- [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
+- [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX (Another Version)](https://blog.waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
 
 ## Convert PyTorch Models to C++:
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
