@@ -20,6 +20,9 @@ In this repository, I will share some useful notes and references about deployin
 - [Direct C++ Interface to PyTorch](https://github.com/ebetica/autogradpp)
 - [A Python module for compiling PyTorch graphs to C](https://github.com/lantiga/pytorch2c)
 
+## Deploy TensorFlow Models in Production:
+- [How to deploy Machine Learning models with TensorFlow - _Part1_](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-1-make-your-model-ready-for-serving-776a14ec3198)
+
 ## Convert Keras Models in Production:
 - [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/) [_Rank: 1st & General Usefult Tutorial_]
 - [Deploying your Keras model](https://medium.com/@burgalon/deploying-your-keras-model-35648f9dc5fb)
