@@ -40,3 +40,8 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Some Caffe2 Tutorials:
 - [Mnist using caffe2](http://vast.uccs.edu/~adhamija/blog/MNIST_singleGPU.html)
+
+## Other:
+- [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
+- [PyTorch and Caffe2 repos getting closer together](https://github.com/caffe2/caffe2/issues/2439#issuecomment-391155017)
+
