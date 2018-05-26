@@ -45,4 +45,5 @@ In this repository, I will share some useful notes and references about deployin
 ## Other:
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
 - [PyTorch and Caffe2 repos getting closer together](https://github.com/caffe2/caffe2/issues/2439#issuecomment-391155017)
+- [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
 
