@@ -41,6 +41,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Deploy MXNet Models in Production:
 - [Model Server for Apache MXNet](https://github.com/awslabs/mxnet-model-server)
+- [Running the Model Server](https://github.com/awslabs/mxnet-model-server/blob/master/docs/server.md)
 
 ## Some Caffe2 Tutorials:
 - [Mnist using caffe2](http://vast.uccs.edu/~adhamija/blog/MNIST_singleGPU.html)
