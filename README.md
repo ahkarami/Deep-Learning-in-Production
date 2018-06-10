@@ -48,6 +48,7 @@ In this repository, I will share some useful notes and references about deployin
 - [How can we serve MXNet models built with gluon api](https://discuss.mxnet.io/t/how-can-we-serve-mxnet-models-built-with-gluon-api/684)
 - [MXNet C++ Package](https://github.com/apache/incubator-mxnet/tree/master/cpp-package)
 - [MXNet C++ Package Examples](https://github.com/apache/incubator-mxnet/tree/master/cpp-package/example)
+- [MXNet Image Classification Example of C++](https://github.com/apache/incubator-mxnet/tree/master/example/image-classification/predict-cpp)
 - [An introduction to the MXNet API](https://becominghuman.ai/an-introduction-to-the-mxnet-api-part-1-848febdcf8ab) [Very Good Tutorial for Learning MXNet]
 
 ## Some Caffe2 Tutorials:
