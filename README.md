@@ -60,6 +60,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Some Useful Resources for Designing UI:
 - [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
+- [Build A Real World Beautiful Web APP with Angular 6](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
 ## Other:
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
