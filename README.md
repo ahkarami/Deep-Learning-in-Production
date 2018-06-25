@@ -33,6 +33,7 @@ In this repository, I will share some useful notes and references about deployin
 - [TensorFlow Serving Example Projects](https://github.com/Vetal1977/tf_serving_example)
 - [Serving Models in Production with TensorFlow Serving](https://www.youtube.com/watch?v=q_IkJcPyNl0) [_TensorFlow Dev Summit 2017 Video_]
 - [Building TensorFlow as a Standalone Project](https://tuatini.me/building-tensorflow-as-a-standalone-project/)
+- [TensorFlow C++ API Example](https://github.com/jhjin/tensorflow-cpp)
 
 ## Convert Keras Models in Production:
 - [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/) [_Rank: 1st & General Usefult Tutorial_]
