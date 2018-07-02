@@ -62,6 +62,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Some Caffe2 Tutorials:
 - [Mnist using caffe2](http://vast.uccs.edu/~adhamija/blog/MNIST_singleGPU.html)
+- [Make Transfer Learning of SqueezeNet on Caffe2](https://medium.com/@KazamiXHayato/make-transfer-learning-in-caffe2-21d96c47ba0e)
 
 ## Some Useful Resources for Designing UI:
 - [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
