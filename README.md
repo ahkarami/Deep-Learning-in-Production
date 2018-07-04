@@ -12,6 +12,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Serving PyTorch Model on Flask Thread-Safety](https://discuss.pytorch.org/t/serving-pytorch-model-on-flask-thread-safety/13921)
 - [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 - [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX (Another Version)](https://blog.waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
+- [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 
 ## Convert PyTorch Models to C++:
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
@@ -35,6 +36,8 @@ In this repository, I will share some useful notes and references about deployin
 - [Serving Models in Production with TensorFlow Serving](https://www.youtube.com/watch?v=q_IkJcPyNl0) [_TensorFlow Dev Summit 2017 Video_]
 - [Building TensorFlow as a Standalone Project](https://tuatini.me/building-tensorflow-as-a-standalone-project/)
 - [TensorFlow C++ API Example](https://github.com/jhjin/tensorflow-cpp)
+- [TensorFlow.js](https://js.tensorflow.org/)
+- [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
 
 ## Convert Keras Models in Production:
 - [Deep learning in production with Keras, Redis, Flask, and Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/) [_Rank: 1st & General Usefult Tutorial_]
@@ -78,4 +81,5 @@ In this repository, I will share some useful notes and references about deployin
 - [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
 - [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
 - [Making your C library callable from Python](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
+- [MIL WebDNN](https://mil-tokyo.github.io/webdnn/)
 
