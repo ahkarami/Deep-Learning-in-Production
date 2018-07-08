@@ -65,6 +65,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Some Caffe2 Tutorials:
 - [Mnist using caffe2](http://vast.uccs.edu/~adhamija/blog/MNIST_singleGPU.html)
+- [Caffe2 C++ Tutorials and Examples](https://github.com/leonardvandriel/caffe2_cpp_tutorial)
 - [Make Transfer Learning of SqueezeNet on Caffe2](https://medium.com/@KazamiXHayato/make-transfer-learning-in-caffe2-21d96c47ba0e)
 - [Build Basic program by using Caffe2 framework in C++](https://medium.com/@KazamiXHayato/write-caffe2-program-in-c-5519e2646382)
 
