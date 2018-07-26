@@ -18,6 +18,8 @@ In this repository, I will share some useful notes and references about deployin
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
 - [Important Issue about PyTorch-like C++ interface](https://github.com/pytorch/pytorch/issues/3335)
 - [PyTorch C++ API Test](https://github.com/pytorch/pytorch/tree/master/test/cpp/api)
+- [PyTorch via C++](https://discuss.pytorch.org/t/pytorch-via-c/19234) [_USeful Notes_]
+- [AUTOGRADPP](https://github.com/pytorch/pytorch/tree/master/torch/csrc/api)
 - [PyTorch C++ Library](https://github.com/warmspringwinds/pytorch-cpp)
 - [Direct C++ Interface to PyTorch](https://github.com/ebetica/autogradpp)
 - [A Python module for compiling PyTorch graphs to C](https://github.com/lantiga/pytorch2c)
