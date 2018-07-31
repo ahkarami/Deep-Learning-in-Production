@@ -62,6 +62,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MXNet C++ Tutorial](http://mxnet.incubator.apache.org/tutorials/c%2B%2B/basics.html)
 - [An introduction to the MXNet API](https://becominghuman.ai/an-introduction-to-the-mxnet-api-part-1-848febdcf8ab) [Very Good Tutorial for Learning MXNet]
 - [GluonCV](https://gluon-cv.mxnet.io/)
+- [GluonNLP](http://gluon-nlp.mxnet.io/)
 
 ## Model Conversion between Deep Learning Frameworks:
 - [ONNX (Open Neural Network Exchange)](https://onnx.ai/)
