@@ -48,6 +48,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Deploying your Keras model using Keras.JS](https://becominghuman.ai/deploying-your-keras-model-using-keras-js-2e5a29589ad8)
 - ["How to Deploy a Keras Model to Production" by _Siraj Raval_ on Youtube](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production)
 - [Deploy Keras Model with Flask as Web App in 10 Minutes](https://github.com/mtobeiyf/keras-flask-deploy-webapp) [Good Repository]
+- [Deploying Keras Deep Learning Models with Flask](https://towardsdatascience.com/deploying-keras-deep-learning-models-with-flask-5da4181436a2)
 - [keras2cpp](https://github.com/pplonski/keras2cpp)
 
 ## Deploy MXNet Models in Production:
