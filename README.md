@@ -57,6 +57,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Running the Model Server](https://github.com/awslabs/mxnet-model-server/blob/master/docs/server.md)
 - [Exporting Models for Use with MMS](https://github.com/awslabs/mxnet-model-server/blob/master/docs/export.md)
 - [Single Shot Multi Object Detection Inference Service](https://github.com/awslabs/mxnet-model-server/blob/master/examples/ssd/README.md)
+- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [How can we serve MXNet models built with gluon api](https://discuss.mxnet.io/t/how-can-we-serve-mxnet-models-built-with-gluon-api/684)
 - [MXNet C++ Package](https://github.com/apache/incubator-mxnet/tree/master/cpp-package)
 - [MXNet C++ Package Examples](https://github.com/apache/incubator-mxnet/tree/master/cpp-package/example)
