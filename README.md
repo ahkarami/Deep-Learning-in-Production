@@ -93,6 +93,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PyTorch and Caffe2 repos getting closer together](https://github.com/caffe2/caffe2/issues/2439#issuecomment-391155017)
 - [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
 - [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
+- [Deep Learning War between PyTorch & TensorFlow](https://hub.packtpub.com/can-a-production-ready-pytorch-1-0-give-tensorflow-a-tough-time/)
 - [Embedding Machine Learning Models to Web Apps (Part-1)](https://towardsdatascience.com/embedding-machine-learning-models-to-web-apps-part-1-6ab7b55ee428)
 - [Making your C library callable from Python](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
 - [MIL WebDNN](https://mil-tokyo.github.io/webdnn/)
