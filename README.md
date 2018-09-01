@@ -92,7 +92,8 @@ In this repository, I will share some useful notes and references about deployin
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 
 ## Back-End Development Part:
-- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)  
+- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
+- [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 
 ## Other:
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
