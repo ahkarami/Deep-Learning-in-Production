@@ -95,6 +95,7 @@ In this repository, I will share some useful notes and references about deployin
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
+- [Celery](http://www.celeryproject.org/) [_Distributed Task Queue_]
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 
 ## Other:
