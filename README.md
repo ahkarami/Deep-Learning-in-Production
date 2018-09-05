@@ -17,6 +17,7 @@ In this repository, I will share some useful notes and references about deployin
 - [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)
 
 ## Convert PyTorch Models to C++:
+- [**PyTorch C++ API**](https://pytorch.org/cppdocs/index.html) [_Fantastic_]
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
 - [Important Issue about PyTorch-like C++ interface](https://github.com/pytorch/pytorch/issues/3335)
 - [PyTorch C++ API Test](https://github.com/pytorch/pytorch/tree/master/test/cpp/api)
