@@ -17,7 +17,7 @@ In this repository, I will share some useful notes and references about deployin
 - [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)
 
 ## Convert PyTorch Models to C++:
-- [**PyTorch C++ API**](https://pytorch.org/cppdocs/index.html) [_Fantastic_]
+- [**PyTorch C++ API**](https://pytorch.org/cppdocs/index.html) [_Bravo_]
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
 - [Important Issue about PyTorch-like C++ interface](https://github.com/pytorch/pytorch/issues/3335)
 - [PyTorch C++ API Test](https://github.com/pytorch/pytorch/tree/master/test/cpp/api)
@@ -97,6 +97,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
 - [Celery](http://www.celeryproject.org/) [_Distributed Task Queue_]
+- [Kafka](https://kafka.apache.org/) [_Distributed Streaming Platform_]
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 
 ## Other:
