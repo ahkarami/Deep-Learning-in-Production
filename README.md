@@ -21,7 +21,7 @@ In this repository, I will share some useful notes and references about deployin
 - [ATen: A TENsor library](https://github.com/pytorch/pytorch/tree/master/aten)
 - [Important Issue about PyTorch-like C++ interface](https://github.com/pytorch/pytorch/issues/3335)
 - [PyTorch C++ API Test](https://github.com/pytorch/pytorch/tree/master/test/cpp/api)
-- [PyTorch via C++](https://discuss.pytorch.org/t/pytorch-via-c/19234) [_USeful Notes_]
+- [PyTorch via C++](https://discuss.pytorch.org/t/pytorch-via-c/19234) [_Useful Notes_]
 - [AUTOGRADPP](https://github.com/pytorch/pytorch/tree/master/torch/csrc/api)
 - [PyTorch C++ Library](https://github.com/warmspringwinds/pytorch-cpp)
 - [Direct C++ Interface to PyTorch](https://github.com/ebetica/autogradpp)
@@ -99,6 +99,9 @@ In this repository, I will share some useful notes and references about deployin
 - [Celery](http://www.celeryproject.org/) [_Distributed Task Queue_]
 - [Kafka](https://kafka.apache.org/) [_Distributed Streaming Platform_]
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
+
+## GPU Management Libraries:
+- [GPUtil](https://github.com/anderskm/gputil)  
 
 ## Other:
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
