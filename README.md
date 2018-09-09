@@ -102,7 +102,8 @@ In this repository, I will share some useful notes and references about deployin
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 
 ## GPU Management Libraries:
-- [GPUtil](https://github.com/anderskm/gputil)  
+- [GPUtil](https://github.com/anderskm/gputil)
+- [py3nvml](https://github.com/fbcotter/py3nvml) [_Python 3 binding to the NVIDIA Management Library_]  
 
 ## Other:
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
