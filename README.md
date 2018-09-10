@@ -89,6 +89,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Web Developer Monthly](https://medium.com/@andreineagoie/web-developer-monthly-july-2018-513e02f15fb6)
 - [23 Best React UI Component Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
 - [35 New Tools for UI Design](https://blog.prototypr.io/35-new-tools-for-ui-design-412cf1d701fd)
+- [Adobe Typekit](https://typekit.com/) [_Great fonts, where you need them_]
 - [Build A Real World Beautiful Web APP with Angular 6](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Web Design with Adobe XD](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
