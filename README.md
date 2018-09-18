@@ -96,6 +96,9 @@ In this repository, I will share some useful notes and references about deployin
 - [Web Design with Adobe XD](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 
+## Mobile Development:
+- [Mobile UI Design Trends In 2018](https://uxplanet.org/mobile-ui-design-trends-in-2018-ccd26031dfd8)  
+
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
