@@ -82,6 +82,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## Some Useful Resources for Designing UI (Front-End Development):
 - [ReactJS vs Angular5 vs Vue.js](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
+- [A comparison between Angular and React and their core languages](https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76)
 - [A Guide to Becoming a Full-Stack Developer](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c) [_Very Good Tutorial_]
 - [Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap) [_Very Good Repository_]
 - [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
