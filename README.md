@@ -111,6 +111,7 @@ In this repository, I will share some useful notes and references about deployin
 - [GPUtil](https://github.com/anderskm/gputil)
 - [py3nvml](https://github.com/fbcotter/py3nvml) [_Python 3 binding to the NVIDIA Management Library_]
 - [PyCUDA - GitHub](https://github.com/inducer/pycuda)
+- [PyCUDA](https://mathema.tician.de/software/pycuda/)
 - [setGPU](https://github.com/bamos/setGPU)  
 
 ## Other:
