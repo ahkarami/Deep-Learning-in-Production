@@ -94,6 +94,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Adobe Typekit](https://typekit.com/) [_Great fonts, where you need them_]
 - [Build A Real World Beautiful Web APP with Angular 6](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript Top 10 Articles](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-sep-2018-8f27a300d6c5)
 - [Web Design with Adobe XD](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 
