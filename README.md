@@ -90,6 +90,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
 - [Web Developer Monthly](https://medium.com/@andreineagoie/web-developer-monthly-july-2018-513e02f15fb6)
 - [23 Best React UI Component Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
+- [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
 - [35 New Tools for UI Design](https://blog.prototypr.io/35-new-tools-for-ui-design-412cf1d701fd)
 - [Adobe Typekit](https://typekit.com/) [_Great fonts, where you need them_]
 - [Build A Real World Beautiful Web APP with Angular 6](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
