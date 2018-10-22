@@ -98,6 +98,7 @@ In this repository, I will share some useful notes and references about deployin
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JavaScript Top 10 Articles](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-sep-2018-8f27a300d6c5)
 - [Web Design with Adobe XD](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
+- [INSPINIA Bootstrap Web Theme](https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S)
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 
 ## Mobile Development:
