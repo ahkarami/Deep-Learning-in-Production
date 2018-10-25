@@ -92,6 +92,7 @@ In this repository, I will share some useful notes and references about deployin
 - [23 Best React UI Component Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
 - [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
 - [35 New Tools for UI Design](https://blog.prototypr.io/35-new-tools-for-ui-design-412cf1d701fd)
+- [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34) [_Very Good_]
 - [How to use ReactJS with Webpack 4, Babel 7, and Material Design](https://medium.freecodecamp.org/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618)
 - [Adobe Typekit](https://typekit.com/) [_Great fonts, where you need them_]
 - [Build A Real World Beautiful Web APP with Angular 6](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
