@@ -111,6 +111,7 @@ In this repository, I will share some useful notes and references about deployin
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
 - [Celery](http://www.celeryproject.org/) [_Distributed Task Queue_]
 - [Kafka](https://kafka.apache.org/) [_Distributed Streaming Platform_]
+- [Jenkins and Kubernetes with Docker Desktop](https://medium.com/@garunski/jenkins-and-kubernetes-with-docker-desktop-53a853486f7c)
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 
 ## GPU Management Libraries:
