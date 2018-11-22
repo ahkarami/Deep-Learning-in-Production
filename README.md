@@ -14,6 +14,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 - [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX (Another Version)](https://blog.waya.ai/deploy-deep-machine-learning-in-production-the-pythonic-way-a17105f1540e)
 - [EuclidesDB - _multi-model machine learning feature database with PyTorch_](https://euclidesdb.readthedocs.io/en/latest/)
+- [EuclidesDB - GitHub](https://github.com/perone/euclidesdb/)
 - [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 - [FastAI PyTorch Serverless API (with AWS Lambda)](https://github.com/alecrubin/pytorch-serverless/)
 - [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)
