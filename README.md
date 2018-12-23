@@ -107,6 +107,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Web Design with Adobe XD](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
 - [INSPINIA Bootstrap Web Theme](https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S)
 - [A Learning Tracker for Front-End Developers](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
+- [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) [_Useful & Interesting_]
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 
 ## Mobile Development:
