@@ -110,6 +110,7 @@ In this repository, I will share some useful notes and references about deployin
 - [A Learning Tracker for Front-End Developers](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
 - [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) [_Useful & Interesting_]
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
+- [Electron - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Very Good_]
 
 ## Mobile Development:
 - [Mobile UI Design Trends In 2018](https://uxplanet.org/mobile-ui-design-trends-in-2018-ccd26031dfd8)  
