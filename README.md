@@ -133,7 +133,11 @@ In this repository, I will share some useful notes and references about deployin
 - [PyCUDA - GitHub](https://github.com/inducer/pycuda)
 - [PyCUDA](https://mathema.tician.de/software/pycuda/)
 - [PyCUDA Tutorial](https://documen.tician.de/pycuda/)
-- [setGPU](https://github.com/bamos/setGPU)  
+- [setGPU](https://github.com/bamos/setGPU)
+
+## Speed-up & Scalabale Python Codes:
+- [Numba - makes Python code fast](http://numba.pydata.org/)
+- [Dask - natively scales Python](https://dask.org/)
 
 ## Other:
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
