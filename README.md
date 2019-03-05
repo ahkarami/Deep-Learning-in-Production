@@ -9,6 +9,7 @@ In this repository, I will share some useful notes and references about deployin
 - [The road to 1.0: production ready PyTorch](https://pytorch.org/2018/05/02/road-to-1.0.html)
 - [PyTorch 1.0 tracing JIT and LibTorch C++ API to integrate PyTorch into NodeJS](http://blog.christianperone.com/2018/10/pytorch-1-0-tracing-jit-and-libtorch-c-api-to-integrate-pytorch-into-nodejs/) [_Good Article_]
 - [PyTorch model recognizing hotdogs and not-hotdogs deployed on flask](https://github.com/jaroslaw-weber/hotdog-not-hotdog)
+- [Serving PyTorch 1.0 Models as a Web Server in C++ ](https://github.com/Wizaron/pytorch-cpp-inference) [_Useful Example_]
 - [Flask application to support pytorch model prediction](https://github.com/craigsidcarlson/PytorchFlaskApp)
 - [Serving PyTorch Model on Flask Thread-Safety](https://discuss.pytorch.org/t/serving-pytorch-model-on-flask-thread-safety/13921)
 - [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
