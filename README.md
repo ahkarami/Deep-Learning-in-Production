@@ -137,6 +137,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PyCUDA](https://mathema.tician.de/software/pycuda/)
 - [PyCUDA Tutorial](https://documen.tician.de/pycuda/)
 - [setGPU](https://github.com/bamos/setGPU)
+- [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 
 ## Speed-up & Scalabale Python Codes:
 - [Numba - makes Python code fast](http://numba.pydata.org/)
