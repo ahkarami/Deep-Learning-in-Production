@@ -159,4 +159,5 @@ In this repository, I will share some useful notes and references about deployin
 - [how you can get a 2–6x speed-up on your data pre-processing with Python](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5)
 - [Making your C library callable from Python](https://medium.com/@shamir.stav_83310/making-your-c-library-callable-from-python-by-wrapping-it-with-cython-b09db35012a3)
 - [MIL WebDNN](https://mil-tokyo.github.io/webdnn/)
+- [Multi-GPU Framework Comparisons](https://medium.com/@iliakarmanov/multi-gpu-rosetta-stone-d4fa96162986) [_Great_]  
 
