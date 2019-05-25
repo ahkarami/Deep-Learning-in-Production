@@ -8,6 +8,7 @@ In this repository, I will share some useful notes and references about deployin
 ## Convert PyTorch Models in Production:
 - [The road to 1.0: production ready PyTorch](https://pytorch.org/2018/05/02/road-to-1.0.html)
 - [PyTorch 1.0 tracing JIT and LibTorch C++ API to integrate PyTorch into NodeJS](http://blog.christianperone.com/2018/10/pytorch-1-0-tracing-jit-and-libtorch-c-api-to-integrate-pytorch-into-nodejs/) [_Good Article_]
+- [Model Serving in PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/)
 - [PyTorch model recognizing hotdogs and not-hotdogs deployed on flask](https://github.com/jaroslaw-weber/hotdog-not-hotdog)
 - [Serving PyTorch 1.0 Models as a Web Server in C++ ](https://github.com/Wizaron/pytorch-cpp-inference) [_Useful Example_]
 - [PyTorch Internals](http://blog.ezyang.com/2019/05/pytorch-internals/)  [_Interesting & Useful Article_]  
