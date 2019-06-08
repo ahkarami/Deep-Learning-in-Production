@@ -146,6 +146,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Numba - makes Python code fast](http://numba.pydata.org/)
 - [Dask - natively scales Python](https://dask.org/)
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/) [_Distillation & Quantization of Deep Learning Models in PyTorch_]
+- [PocketFlow - An Automatic Model Compression (AutoMC) framework](https://github.com/Tencent/PocketFlow) [**Great**]  
 - [NVIDIA DALI - highly optimized data pre-processing in deep learning](https://github.com/NVIDIA/dali)  
 - [Horovod - Distributed training framework](https://github.com/horovod/horovod)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
