@@ -78,6 +78,7 @@ In this repository, I will share some useful notes and references about deployin
 - [An introduction to the MXNet API](https://becominghuman.ai/an-introduction-to-the-mxnet-api-part-1-848febdcf8ab) [Very Good Tutorial for Learning MXNet]
 - [GluonCV](https://gluon-cv.mxnet.io/)
 - [GluonNLP](http://gluon-nlp.mxnet.io/)
+- [Model Quantization for Production-Level Neural Network Inference](https://medium.com/apache-mxnet/model-quantization-for-production-level-neural-network-inference-f54462ebba05) [_Excellent_]
 
 ## General Deep Learning Compiler Stack:
 - [TVM Stack](https://tvm.ai/)
