@@ -125,6 +125,7 @@ In this repository, I will share some useful notes and references about deployin
 - [ncnn - high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) [_Useful_]  
 - [Alibaba - MNN](https://github.com/alibaba/MNN)  
 - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)  
+- [EMDL - Embedded and Mobile Deep Learning](https://github.com/EMDL/awesome-emdl)  
 
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
