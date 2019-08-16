@@ -128,6 +128,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)  
 - [EMDL - Embedded and Mobile Deep Learning](https://github.com/EMDL/awesome-emdl)  
 - [Fritz - machine learning platform for iOS and Android](https://www.fritz.ai/)  
+- [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)  
 
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
