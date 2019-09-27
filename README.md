@@ -44,6 +44,7 @@ In this repository, I will share some useful notes and references about deployin
 - [How to deploy Machine Learning models with TensorFlow - _Part2_](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-2-containerize-it-db0ad7ca35a7)
 - [How to deploy Machine Learning models with TensorFlow - _Part3_](https://towardsdatascience.com/how-to-deploy-machine-learning-models-with-tensorflow-part-3-into-the-cloud-7115ff774bb6)
 - [Neural Structured Learning (NSL) in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd) [_Great_]
+- [Building Robust Production-Ready Deep Learning Vision Models](https://medium.com/google-developer-experts/building-robust-production-ready-deep-learning-vision-models-in-minutes-acd716f6450a)  
 - [Creating REST API for TensorFlow models](https://becominghuman.ai/creating-restful-api-to-tensorflow-models-c5c57b692c10)
 - ["How to Deploy a Tensorflow Model in Production" by _Siraj Raval_ on YouTube](https://www.youtube.com/watch?v=T_afaArR0E8)
 - [Code for the "How to Deploy a Tensorflow Model in Production" by _Siraj Raval_ on YouTube](https://github.com/llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production)
