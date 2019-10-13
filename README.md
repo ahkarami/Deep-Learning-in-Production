@@ -127,6 +127,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Electron - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Very Good_]
 
 ## Mobile Development:
+- [PyTorch Mobile](https://pytorch.org/mobile/home/) [_Excellent_]  
 - [Mobile UI Design Trends In 2018](https://uxplanet.org/mobile-ui-design-trends-in-2018-ccd26031dfd8)  
 - [ncnn - high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) [_Useful_]  
 - [Alibaba - MNN](https://github.com/alibaba/MNN)  
