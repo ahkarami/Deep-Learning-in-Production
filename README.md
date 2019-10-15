@@ -164,6 +164,8 @@ In this repository, I will share some useful notes and references about deployin
 - [Introducing the Model Optimization Toolkit for TensorFlow](https://medium.com/tensorflow/introducing-the-model-optimization-toolkit-for-tensorflow-254aca1ba0a3)  
 - [TensorFlow Model Optimization Toolkit — Post-Training Integer Quantization](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-post-training-integer-quantization-b4964a1ea9ba)  
 - [TensorFlow Post-training Quantization](https://www.tensorflow.org/model_optimization/guide/quantization)  
+- [Dynamic Quantization in PyTorch](https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html)  
+- [Static Quantization in PyTorch](https://pytorch.org/tutorials/advanced/static_quantization_tutorial.html)  
 - [NVIDIA DALI - highly optimized data pre-processing in deep learning](https://github.com/NVIDIA/dali)  
 - [Horovod - Distributed training framework](https://github.com/horovod/horovod)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
