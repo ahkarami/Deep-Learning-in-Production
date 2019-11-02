@@ -109,6 +109,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 - [Roadmap to becoming a React developer in 2018](https://github.com/adam-golab/react-developer-roadmap)
 - [2019 UI and UX Design Trends](https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225) [_Good_]
+- [Streamlit](https://streamlit.io/) [_The fastest way to build custom ML tools_]  
 - [Web Developer Monthly](https://medium.com/@andreineagoie/web-developer-monthly-july-2018-513e02f15fb6)
 - [23 Best React UI Component Frameworks](https://hackernoon.com/23-best-react-ui-component-libraries-and-frameworks-250a81b2ac42)
 - [9 React Styled-Components UI Libraries for 2018](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
