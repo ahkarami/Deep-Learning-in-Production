@@ -171,6 +171,7 @@ In this repository, I will share some useful notes and references about deployin
 - [NVIDIA DALI - highly optimized data pre-processing in deep learning](https://github.com/NVIDIA/dali)  
 - [Horovod - Distributed training framework](https://github.com/horovod/horovod)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
+- [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 
 ## Other:
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
