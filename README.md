@@ -162,6 +162,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Numba - makes Python code fast](http://numba.pydata.org/)
 - [Dask - natively scales Python](https://dask.org/)
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/) [_Distillation & Quantization of Deep Learning Models in PyTorch_]
+- [PyTorch Pruning Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)  
 - [PocketFlow - An Automatic Model Compression (AutoMC) framework](https://github.com/Tencent/PocketFlow) [**Great**]  
 - [Introducing the Model Optimization Toolkit for TensorFlow](https://medium.com/tensorflow/introducing-the-model-optimization-toolkit-for-tensorflow-254aca1ba0a3)  
 - [TensorFlow Model Optimization Toolkit — Post-Training Integer Quantization](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-post-training-integer-quantization-b4964a1ea9ba)  
