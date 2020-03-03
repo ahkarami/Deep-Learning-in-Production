@@ -128,7 +128,7 @@ In this repository, I will share some useful notes and references about deployin
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 - [Electron - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Very Good_]
 
-## Mobile Development:
+## Mobile & Embedded Devices Development:
 - [PyTorch Mobile](https://pytorch.org/mobile/home/) [_Excellent_]  
 - [Mobile UI Design Trends In 2018](https://uxplanet.org/mobile-ui-design-trends-in-2018-ccd26031dfd8)  
 - [ncnn - high-performance neural network inference framework optimized for the mobile platform](https://github.com/Tencent/ncnn) [_Useful_]  
@@ -137,6 +137,7 @@ In this repository, I will share some useful notes and references about deployin
 - [EMDL - Embedded and Mobile Deep Learning](https://github.com/EMDL/awesome-emdl)  
 - [Fritz - machine learning platform for iOS and Android](https://www.fritz.ai/)  
 - [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)  
+- [NVIDIA Jetson Inference](https://github.com/dusty-nv/jetson-inference)  [_Great_]
 
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
