@@ -148,6 +148,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Kubernetes - GitHub](https://github.com/kubernetes/kubernetes)
 - [Jenkins and Kubernetes with Docker Desktop](https://medium.com/@garunski/jenkins-and-kubernetes-with-docker-desktop-53a853486f7c)
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
+- [deepo - Docker Image for all DL Framewors](https://github.com/ufoym/deepo)  
 - [Kubeflow](https://www.kubeflow.org/)  [_deployments of ML workflows on Kubernetes_]  
 - [MLOps References](https://github.com/visenger/mlops-references)  [_DevOps for ML_]
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
