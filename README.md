@@ -162,6 +162,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PyCUDA Tutorial](https://documen.tician.de/pycuda/)
 - [setGPU](https://github.com/bamos/setGPU)
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
+- [Grafana - Monitoring and Observability](https://github.com/grafana/grafana) [**Excellent**]  
 
 ## Speed-up & Scalabale Python Codes:
 - [Numba - makes Python code fast](http://numba.pydata.org/)
