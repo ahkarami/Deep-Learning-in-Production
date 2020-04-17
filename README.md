@@ -87,6 +87,11 @@ In this repository, I will share some useful notes and references about deployin
 - [GluonNLP](http://gluon-nlp.mxnet.io/)
 - [Model Quantization for Production-Level Neural Network Inference](https://medium.com/apache-mxnet/model-quantization-for-production-level-neural-network-inference-f54462ebba05) [_Excellent_]
 
+## Deploy Machine Learning Models with Go:
+- [Cortex: Deploy machine learning models in production](https://github.com/cortexlabs/cortex)  
+- [Cortex - Main Page](https://www.cortex.dev/)  
+- [Why we deploy machine learning models with Go — not Python](https://towardsdatascience.com/why-we-deploy-machine-learning-models-with-go-not-python-a4e35ec16deb)  
+
 ## General Deep Learning Compiler Stack:
 - [TVM Stack](https://tvm.ai/)
 
