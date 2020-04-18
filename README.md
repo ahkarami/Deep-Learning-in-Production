@@ -92,6 +92,10 @@ In this repository, I will share some useful notes and references about deployin
 - [Cortex - Main Page](https://www.cortex.dev/)  
 - [Why we deploy machine learning models with Go — not Python](https://towardsdatascience.com/why-we-deploy-machine-learning-models-with-go-not-python-a4e35ec16deb)  
 
+## Huawei Deep Learning Framework:
+- [MindSpore - Huawei Deep Learning Framework](https://github.com/mindspore-ai/mindspore)  
+- [MindSpore - Tutorial](https://www.mindspore.cn/tutorial/en/0.1.0-alpha/quick_start/quick_start.html)  
+
 ## General Deep Learning Compiler Stack:
 - [TVM Stack](https://tvm.ai/)
 
