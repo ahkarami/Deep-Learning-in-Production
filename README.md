@@ -191,6 +191,7 @@ In this repository, I will share some useful notes and references about deployin
 - [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 
 ## Other:
+- [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
 - [Some PyTorch Workflow Changes](https://github.com/pytorch/pytorch/issues/6032)
 - [wandb - A tool for visualizing and tracking your machine learning experiments](https://github.com/wandb/client)  
