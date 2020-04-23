@@ -172,6 +172,7 @@ In this repository, I will share some useful notes and references about deployin
 - [setGPU](https://github.com/bamos/setGPU)
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Grafana - Monitoring and Observability](https://github.com/grafana/grafana) [**Excellent**]  
+- [Prometheus](https://prometheus.io/) [_Excellent for monitoring solution & extract required metrics_]  
 
 ## Speed-up & Scalabale Python Codes:
 - [Numba - makes Python code fast](http://numba.pydata.org/)
