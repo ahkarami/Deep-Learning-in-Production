@@ -189,6 +189,7 @@ In this repository, I will share some useful notes and references about deployin
 - [NVIDIA DALI - highly optimized data pre-processing in deep learning](https://github.com/NVIDIA/dali)  
 - [Horovod - Distributed training framework](https://github.com/horovod/horovod)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
+- [Speeding Up Deep Learning Inference Using TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorrt/)  
 - [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 
 ## Other:
