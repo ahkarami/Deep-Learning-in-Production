@@ -179,6 +179,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Numba - makes Python code fast](http://numba.pydata.org/)
 - [Dask - natively scales Python](https://dask.org/)
 - [What is Dask](https://medium.com/better-programming/what-is-dask-and-how-can-it-help-you-as-a-data-scientist-72adec7cec57)  
+- [Ray - running distributed applications](https://github.com/ray-project/ray)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/) [_Distillation & Quantization of Deep Learning Models in PyTorch_]
 - [PyTorch Pruning Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)  
 - [PocketFlow - An Automatic Model Compression (AutoMC) framework](https://github.com/Tencent/PocketFlow) [**Great**]  
