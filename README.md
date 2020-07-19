@@ -194,6 +194,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Horovod - Distributed training framework](https://github.com/horovod/horovod)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
 - [Speeding Up Deep Learning Inference Using TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorrt/)  
+- [Speed up Training](https://ai.googleblog.com/2020/05/speeding-up-neural-network-training.html)  
 - [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 
 ## Other:
