@@ -164,6 +164,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MLOps References](https://github.com/visenger/mlops-references)  [_DevOps for ML_]
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
+- [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
 
 ## GPU Management Libraries:
 - [GPUtil](https://github.com/anderskm/gputil)
