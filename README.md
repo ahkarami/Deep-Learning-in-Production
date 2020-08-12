@@ -199,6 +199,7 @@ In this repository, I will share some useful notes and references about deployin
 - [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 - [TensorRTx - popular DL networks with tensorrt](https://github.com/wang-xinyu/tensorrtx)  
 - [Speeding up Deep Learning Inference Using TensorFlow, ONNX, and TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorflow-onnx-and-tensorrt/)  
+- [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
