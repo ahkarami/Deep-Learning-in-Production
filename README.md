@@ -161,6 +161,7 @@ In this repository, I will share some useful notes and references about deployin
 - [deepo - Docker Image for all DL Framewors](https://github.com/ufoym/deepo)  
 - [Kubeflow](https://www.kubeflow.org/)  [_deployments of ML workflows on Kubernetes_]  
 - [kubespray - Deploy a Production Ready Kubernetes Cluster](https://github.com/kubernetes-sigs/kubespray)  
+- [KFServing - Kubernetes for Serving ML Models](https://github.com/kubeflow/kfserving)  
 - [MLOps References](https://github.com/visenger/mlops-references)  [_DevOps for ML_]
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
