@@ -156,6 +156,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Kafka](https://kafka.apache.org/) [_Distributed Streaming Platform_]
 - [Kubernetes - GitHub](https://github.com/kubernetes/kubernetes)
 - [Deploy Machine Learning Pipeline on Google Kubernetes Engine](https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b)  
+- [An introduction to Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
 - [Jenkins and Kubernetes with Docker Desktop](https://medium.com/@garunski/jenkins-and-kubernetes-with-docker-desktop-53a853486f7c)
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 - [deepo - Docker Image for all DL Framewors](https://github.com/ufoym/deepo)  
