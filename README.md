@@ -166,6 +166,7 @@ In this repository, I will share some useful notes and references about deployin
 - [KFServing - Kubernetes for Serving ML Models](https://github.com/kubeflow/kfserving)  
 - [Deploying a HuggingFace NLP Model with KFServing](http://www.pattersonconsultingtn.com/blog/deploying_huggingface_with_kfserving.html) [_Interesting_]  
 - [Seldon Core - Deploying Machine Learning Models on Kubernetes](https://www.seldon.io/tech/products/core/)  
+- [Seldon Core - GitHub](https://github.com/SeldonIO/seldon-core)  
 - [Machine Learning: serving models with Kubeflow on Ubuntu, Part 1](https://ubuntu.com/blog/ml-serving-models-with-kubeflow-on-ubuntu-part-1)  
 - [CoreWeave Kubernetes Cloud](https://github.com/coreweave/kubernetes-cloud/tree/master/online-inference/)  
 - [MLOps References](https://github.com/visenger/mlops-references)  [_DevOps for ML_]
