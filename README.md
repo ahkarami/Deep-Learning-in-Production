@@ -204,6 +204,7 @@ In this repository, I will share some useful notes and references about deployin
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
 - [Speeding Up Deep Learning Inference Using TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorrt/)  
 - [Speed up Training](https://ai.googleblog.com/2020/05/speeding-up-neural-network-training.html)  
+- [Native PyTorch automatic mixed precision for faster training on NVIDIA GPUs](https://pytorch.org/blog/accelerating-training-on-nvidia-gpus-with-pytorch-automatic-mixed-precision/)  
 - [JAX - Composable transformations of Python+NumPy programs](https://github.com/google/jax)  
 - [TensorRTx - popular DL networks with tensorrt](https://github.com/wang-xinyu/tensorrtx)  
 - [Speeding up Deep Learning Inference Using TensorFlow, ONNX, and TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorflow-onnx-and-tensorrt/)  
