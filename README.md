@@ -185,6 +185,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PyCUDA Tutorial](https://documen.tician.de/pycuda/)
 - [setGPU](https://github.com/bamos/setGPU)
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
+- [GPU-Burn - Multi-GPU CUDA stress test](https://github.com/wilicc/gpu-burn) [_Useful_]   
 - [Grafana - Monitoring and Observability](https://github.com/grafana/grafana) [**Excellent**]  
 - [Prometheus](https://prometheus.io/) [_Excellent for monitoring solution & extract required metrics_]  
 
