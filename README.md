@@ -91,6 +91,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Cortex: Deploy machine learning models in production](https://github.com/cortexlabs/cortex)  
 - [Cortex - Main Page](https://www.cortex.dev/)  
 - [Why we deploy machine learning models with Go — not Python](https://towardsdatascience.com/why-we-deploy-machine-learning-models-with-go-not-python-a4e35ec16deb)  
+- [Go-Torch](https://github.com/orktes/go-torch)  
 
 ## General Deep Learning Deployment Toolkits:
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
