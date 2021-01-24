@@ -94,6 +94,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Go-Torch](https://github.com/orktes/go-torch)  
 - [Gotch - Go API for PyTorch](https://github.com/sugarme/gotch)  
 - [TensorFlow Go Lang](https://www.tensorflow.org/install/lang_go)  
+- [Go-onnx](https://github.com/dhdanie/goonnx)  
 
 ## General Deep Learning Deployment Toolkits:
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
