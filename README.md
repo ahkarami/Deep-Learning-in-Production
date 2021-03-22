@@ -181,7 +181,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
-- [NLP Cloud - All spaCy NLP models served through a REST API](https://docs.nlpcloud.io)  
+- [NLP Cloud - NLP API based on spacy and HuggingFace transformers](https://docs.nlpcloud.io)  
 
 ## GPU Management Libraries:
 - [GPUtil](https://github.com/anderskm/gputil)
