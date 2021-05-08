@@ -156,6 +156,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Fritz - machine learning platform for iOS and Android](https://www.fritz.ai/)  
 - [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/)  
 - [Tiny Machine Learning: The Next AI Revolution](https://medium.com/@matthew_stewart/tiny-machine-learning-the-next-ai-revolution-495c26463868)  
+- [TLT - NVIDIA Transfer Learning Toolkit](https://developer.nvidia.com/transfer-learning-toolkit)  
 - [NVIDIA Jetson Inference](https://github.com/dusty-nv/jetson-inference)  [_Great_]
 
 ## Back-End Development Part:
