@@ -171,6 +171,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Deploy Machine Learning Pipeline on Google Kubernetes Engine](https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b)  
 - [An introduction to Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
 - [Jenkins and Kubernetes with Docker Desktop](https://medium.com/@garunski/jenkins-and-kubernetes-with-docker-desktop-53a853486f7c)
+- [Helm: The package manager for Kubernetes](https://helm.sh/)  
 - [Create Cluster using docker swarm](https://medium.com/tech-tajawal/create-cluster-using-docker-swarm-94d7b2a10c43)  
 - [deepo - Docker Image for all DL Framewors](https://github.com/ufoym/deepo)  
 - [Kubeflow](https://www.kubeflow.org/)  [_deployments of ML workflows on Kubernetes_]  
