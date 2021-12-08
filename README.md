@@ -186,6 +186,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
+- [poetry: Python packaging and dependency management](https://python-poetry.org/)  
 
 ## GPU Management Libraries:
 - [GPUtil](https://github.com/anderskm/gputil)
