@@ -23,7 +23,8 @@ In this repository, I will share some useful notes and references about deployin
 - [EuclidesDB - GitHub](https://github.com/perone/euclidesdb/)
 - [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 - [FastAI PyTorch Serverless API (with AWS Lambda)](https://github.com/alecrubin/pytorch-serverless/)
-- [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)
+- [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)   
+- [TorchServe](https://github.com/pytorch/serve) [Great Tool]    
 
 ## Convert PyTorch Models to C++:
 - [**Loading a PyTorch Model in C++**](https://pytorch.org/tutorials/advanced/cpp_export.html) [_**Fantastic**_]
