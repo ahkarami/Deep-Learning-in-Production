@@ -101,6 +101,10 @@ In this repository, I will share some useful notes and references about deployin
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
 - [ClearML - ML/DL development and production suite](https://github.com/allegroai/clearml)  
 - [Model Deployment Using Heroku: A Complete Guide on Heroku](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/) [Good]   
+- [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) [**Great**]      
+- [NVIDIA Triton Inference Server - GitHub](https://github.com/triton-inference-server/server) [**Great**]   
+- [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) [Interesting]  
+- [Deploying the Jasper Inference model using Triton Inference Server](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecognition/Jasper/triton) [Useful]   
 
 ## Huawei Deep Learning Framework:
 - [MindSpore - Huawei Deep Learning Framework](https://github.com/mindspore-ai/mindspore)  
