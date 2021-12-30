@@ -24,6 +24,7 @@ In this repository, I will share some useful notes and references about deployin
 - [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 - [FastAI PyTorch Serverless API (with AWS Lambda)](https://github.com/alecrubin/pytorch-serverless/)
 - [FastAI PyTorch in Production (discussion)](http://forums.fast.ai/t/fastai-pytorch-in-production/16928)   
+- [OpenMMLab Model Deployment Framework](https://github.com/open-mmlab/mmdeploy)  
 - [TorchServe](https://github.com/pytorch/serve) [Great Tool]    
 - [TorchServe Video Tutorial](https://www.youtube.com/watch?v=XlO7iQMV3Ik)  
 
