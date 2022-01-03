@@ -174,6 +174,7 @@ In this repository, I will share some useful notes and references about deployin
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
 - [Celery](http://www.celeryproject.org/) [_Distributed Task Queue_]
 - [Kafka](https://kafka.apache.org/) [_Distributed Streaming Platform_]
+- [Docker training with DockerMe](https://github.com/AhmadRafiee/Docker_training_with_DockerMe)  
 - [Kubernetes - GitHub](https://github.com/kubernetes/kubernetes)
 - [Deploy Machine Learning Pipeline on Google Kubernetes Engine](https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b)  
 - [An introduction to Kubernetes for Data Scientists](https://www.jeremyjordan.me/kubernetes/)  
