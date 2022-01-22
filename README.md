@@ -239,6 +239,9 @@ In this repository, I will share some useful notes and references about deployin
 ## Hardware Notes for Deep Learning:  
 - [Hardware for Deep Learning](https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664)  
 
+## MLOPs Courses & Resources:  
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) [Great]    
+
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
