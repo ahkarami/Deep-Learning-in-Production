@@ -156,6 +156,7 @@ In this repository, I will share some useful notes and references about deployin
 - [GUI-fying the Machine Learning Workflow (Machine Flow)](https://towardsdatascience.com/gui-fying-the-machine-learning-workflow-towards-rapid-discovery-of-viable-pipelines-cab2552c909f)
 - [Electron - Build cross platform desktop apps with JavaScript](https://electronjs.org/) [_Very Good_]
 - [Opyrator - Turns Python functions into microservices with web API](https://github.com/ml-tooling/opyrator) [**Great**]    
+- [A First Look at PyScript: Python in the Web Browser](https://realpython.com/pyscript-python-in-browser/) [**Interesting**]  
 
 ## Mobile & Embedded Devices Development:
 - [PyTorch Mobile](https://pytorch.org/mobile/home/) [_Excellent_]  
