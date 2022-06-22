@@ -243,6 +243,7 @@ In this repository, I will share some useful notes and references about deployin
 ## MLOPs Courses & Resources:  
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) [Great]  
 - [MLOPs-Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) [Great]   
+- [A collection of resources to learn about MLOPs](https://github.com/dair-ai/MLOPs-Primer) [Great]  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
