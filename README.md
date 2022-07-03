@@ -195,6 +195,7 @@ In this repository, I will share some useful notes and references about deployin
 - [CoreWeave Kubernetes Cloud](https://github.com/coreweave/kubernetes-cloud/tree/master/online-inference/)  
 - [MLOps References](https://github.com/visenger/mlops-references)  [_DevOps for ML_]
 - [Data Version Control - DVC](https://dvc.org/)  [_Great_]  
+- [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
 - [poetry: Python packaging and dependency management](https://python-poetry.org/)  
@@ -244,6 +245,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) [Great]  
 - [MLOPs-Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) [Great]   
 - [A collection of resources to learn about MLOPs](https://github.com/dair-ai/MLOPs-Primer) [Great]  
+- [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
