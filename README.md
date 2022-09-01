@@ -246,6 +246,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MLOPs-Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) [Great]   
 - [A collection of resources to learn about MLOPs](https://github.com/dair-ai/MLOPs-Primer) [Great]  
 - [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
