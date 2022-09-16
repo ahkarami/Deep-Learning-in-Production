@@ -248,6 +248,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)  
 - [MlOPs Sample Project](https://github.com/AntonisCSt/Mlops_project_semicon)  
+- [prefect: Orchestrate and observe all of your workflows](https://www.prefect.io/)  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
