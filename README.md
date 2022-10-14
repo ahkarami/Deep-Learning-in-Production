@@ -105,6 +105,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Model Deployment Using Heroku: A Complete Guide on Heroku](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/) [Good]   
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) [**Great**]      
 - [NVIDIA Triton Inference Server - GitHub](https://github.com/triton-inference-server/server) [**Great**]   
+- [Cohere Boosts Inference Speed With NVIDIA Triton Inference Server](https://txt.cohere.ai/nvidia-boosts-inference-speed-with-cohere/)  
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) [Interesting]  
 - [Deploying the Jasper Inference model using Triton Inference Server](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecognition/Jasper/triton) [Useful]   
 - [Nvidia MLOPs Course via Triton](https://analyticsindiamag.com/nvidia-is-offering-a-four-hour-self-paced-course-on-mlops/)  
