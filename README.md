@@ -100,6 +100,8 @@ In this repository, I will share some useful notes and references about deployin
 - [Go-onnx](https://github.com/dhdanie/goonnx)  
 
 ## General Deep Learning Deployment Toolkits:
+- [Meta AITemplate - Turn neural network into high performance CUDA/HIP C++ code](https://github.com/facebookincubator/AITemplate) [_New_]  
+- [nebullvm - Accelerate AI models inference leveraging best-of-breed optimization techniques 🚀](https://github.com/nebuly-ai/nebullvm) [_Great_]  
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
 - [ClearML - ML/DL development and production suite](https://github.com/allegroai/clearml)  
 - [Model Deployment Using Heroku: A Complete Guide on Heroku](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/) [Good]   
