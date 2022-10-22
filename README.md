@@ -77,7 +77,8 @@ In this repository, I will share some useful notes and references about deployin
 ## Deploy MXNet Models in Production:
 - [Model Server for Apache MXNet](https://github.com/awslabs/mxnet-model-server)
 - [Running the Model Server](https://github.com/awslabs/mxnet-model-server/blob/master/docs/server.md)
-- [Exporting Models for Use with MMS](https://github.com/awslabs/mxnet-model-server/blob/master/docs/export.md)
+- [Multi Model Server (MMS) Documentation](https://github.com/awslabs/multi-model-server/tree/master/docs)  
+- [Introducing Model Server for Apache MXNet](https://aws.amazon.com/blogs/machine-learning/introducing-model-server-for-apache-mxnet/)  
 - [Single Shot Multi Object Detection Inference Service](https://github.com/awslabs/mxnet-model-server/blob/master/examples/ssd/README.md)
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 - [How can we serve MXNet models built with gluon api](https://discuss.mxnet.io/t/how-can-we-serve-mxnet-models-built-with-gluon-api/684)
