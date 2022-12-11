@@ -214,6 +214,7 @@ In this repository, I will share some useful notes and references about deployin
 - [GPU-Burn - Multi-GPU CUDA stress test](https://github.com/wilicc/gpu-burn) [_Useful_]   
 - [Grafana - Monitoring and Observability](https://github.com/grafana/grafana) [**Excellent**]  
 - [Prometheus](https://prometheus.io/) [_Excellent for monitoring solution & extract required metrics_]  
+- [OpenAI Triton: Open-Source GPU Programming for Neural Networks](https://openai.com/blog/triton/)  
 
 ## Speed-up & Scalabale Python Codes:
 - [Numba - makes Python code fast](http://numba.pydata.org/)
