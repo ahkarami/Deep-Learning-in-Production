@@ -249,6 +249,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) [Great]  
 - [MLOPs-Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) [Great]   
 - [A collection of resources to learn about MLOPs](https://github.com/dair-ai/MLOPs-Primer) [Great]  
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops) [Great]  
 - [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)  
 - [MlOPs Sample Project](https://github.com/AntonisCSt/Mlops_project_semicon)  
