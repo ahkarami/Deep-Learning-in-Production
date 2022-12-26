@@ -103,6 +103,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## General Deep Learning Deployment Toolkits:
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
+- [Speedster - Deep Learning Inference Accelerator](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) [_Great_]   
 - [ClearML - ML/DL development and production suite](https://github.com/allegroai/clearml)  
 - [Model Deployment Using Heroku: A Complete Guide on Heroku](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/) [Good]   
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) [**Great**]      
