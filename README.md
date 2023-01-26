@@ -176,6 +176,7 @@ In this repository, I will share some useful notes and references about deployin
 - [NVIDIA Jetson Inference](https://github.com/dusty-nv/jetson-inference)  [_Great_]
 
 ## Back-End Development Part:
+- [nos - ope-source platform to efficiently run AI workloads on Kubernetes](https://github.com/nebuly-ai/nos)
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [Deploying frontend applications — the fun way](https://hackernoon.com/deploying-frontend-applications-the-fun-way-bc3f69e15331) [_Very Good_]
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
