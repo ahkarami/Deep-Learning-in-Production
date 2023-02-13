@@ -256,6 +256,7 @@ In this repository, I will share some useful notes and references about deployin
 - [MlOPs Sample Project](https://github.com/AntonisCSt/Mlops_project_semicon)  
 - [prefect: Orchestrate and observe all of your workflows](https://www.prefect.io/)  
 - [DataTalks Club: The place to talk about data](https://datatalks.club/)  
+- [OpenNMT CTranslate2: Fast inference engine for Transformer models](https://github.com/OpenNMT/CTranslate2/)  
 
 ## Other:
 - [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)  
