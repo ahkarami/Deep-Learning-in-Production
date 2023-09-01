@@ -202,6 +202,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
 - [poetry: Python packaging and dependency management](https://python-poetry.org/)  
+- [CML: Continuous Machine Learning, CI/CD for ML](https://github.com/iterative/cml)
 
 ## GPU Management Libraries:
 - [GPUtil](https://github.com/anderskm/gputil)
