@@ -201,7 +201,9 @@ In this repository, I will share some useful notes and references about deployin
 - [MLEM: package and deploy machine learning models](https://github.com/iterative/mlem)  
 - [PySyft - A library for encrypted, privacy preserving deep learning](https://github.com/OpenMined/PySyft)  
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)  
-- [poetry: Python packaging and dependency management](https://python-poetry.org/)  
+- [poetry: Python packaging and dependency management](https://python-poetry.org/)
+- [Netflix's Powerful Database Selections for Streaming at Scale](https://www.linkedin.com/posts/chandreshdesai_cloudcomputing-devops-softwareengineering-activity-7108414221482115072-HGil?utm_source=share&utm_medium=member_desktop)
+- [Ray: a unified framework for scaling AI and Python applications](https://github.com/ray-project/ray)  
 
 ## GPU Management Libraries:
 - [GPUtil](https://github.com/anderskm/gputil)
