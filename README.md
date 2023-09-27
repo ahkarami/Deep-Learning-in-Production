@@ -173,6 +173,7 @@ In this repository, I will share some useful notes and references about deployin
 - [Tiny Machine Learning: The Next AI Revolution](https://medium.com/@matthew_stewart/tiny-machine-learning-the-next-ai-revolution-495c26463868)  
 - [TLT - NVIDIA Transfer Learning Toolkit](https://developer.nvidia.com/transfer-learning-toolkit)  
 - [NVIDIA Jetson Inference](https://github.com/dusty-nv/jetson-inference)  [_Great_]
+- [EfficientML.ai Lecture (MIT Course)](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)  
 
 ## Back-End Development Part:
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
