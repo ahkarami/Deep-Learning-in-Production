@@ -245,7 +245,9 @@ In this repository, I will share some useful notes and references about deployin
 - [TensorRTx - popular DL networks with tensorrt](https://github.com/wang-xinyu/tensorrtx)  
 - [Speeding up Deep Learning Inference Using TensorFlow, ONNX, and TensorRT](https://devblogs.nvidia.com/speeding-up-deep-learning-inference-using-tensorflow-onnx-and-tensorrt/)  
 - [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)  
-- [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) [_Good_]   
+- [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/) [_Good_]
+- [cuDF: GPU DataFrame Library](https://github.com/rapidsai/cudf)
+- [cuDF example](https://colab.research.google.com/drive/12tCzP94zFG2BRduACucn5Q_OcX1TUKY3)  
 
 ## Hardware Notes for Deep Learning:  
 - [Hardware for Deep Learning](https://blog.inten.to/hardware-for-deep-learning-part-3-gpu-8906c1644664)  
