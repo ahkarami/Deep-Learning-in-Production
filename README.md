@@ -103,6 +103,7 @@ In this repository, I will share some useful notes and references about deployin
 
 ## General Deep Learning Deployment Toolkits:
 - [OpenVINO Toolkit - Deep Learning Deployment Toolkit repository](https://github.com/openvinotoolkit/openvino) [_Great_]   
+- [Speedster - Deep Learning Inference Accelerator](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) [_Great_]   
 - [ClearML - ML/DL development and production suite](https://github.com/allegroai/clearml)  
 - [Model Deployment Using Heroku: A Complete Guide on Heroku](https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-on-machine-learning-model-deployment-using-heroku/) [Good]   
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) [**Great**]      
@@ -177,6 +178,7 @@ In this repository, I will share some useful notes and references about deployin
 - [PyTorch Edge: Enabling On-Device Inference Across Mobile and Edge Devices with ExecuTorch](https://pytorch.org/blog/pytorch-edge/?utm_content=268296369&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
 
 ## Back-End Development Part:
+- [nos - ope-source platform to efficiently run AI workloads on Kubernetes](https://github.com/nebuly-ai/nos)
 - [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 - [Deploying frontend applications — the fun way](https://hackernoon.com/deploying-frontend-applications-the-fun-way-bc3f69e15331) [_Very Good_]
 - [RabbitMQ](https://www.rabbitmq.com/) [_Message Broker Software_]
