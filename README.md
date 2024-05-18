@@ -111,7 +111,8 @@ In this repository, I will share some useful notes and references about deployin
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) [Interesting]  
 - [Deploying the Jasper Inference model using Triton Inference Server](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecognition/Jasper/triton) [Useful]   
 - [Nvidia MLOPs Course via Triton](https://analyticsindiamag.com/nvidia-is-offering-a-four-hour-self-paced-course-on-mlops/)  
-- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) [Great]     
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) [Great]
+- [BentoML Model Serving](https://www.linkedin.com/posts/axelmdz_mlops-machinelearning-datascience-activity-7194637600861618176-iQaF?utm_source=share&utm_medium=member_desktop)  
 
 ## Huawei Deep Learning Framework:
 - [MindSpore - Huawei Deep Learning Framework](https://github.com/mindspore-ai/mindspore)  
