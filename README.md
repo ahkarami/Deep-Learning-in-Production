@@ -28,7 +28,8 @@ In this repository, I will share some useful notes and references about deployin
 - [OpenMMLab Model Deployment Framework](https://github.com/open-mmlab/mmdeploy)
 - [PyTorch Native Architecture Optimization: torchao](https://pytorch.org/blog/pytorch-native-architecture-optimization/?utm_content=309679619&utm_medium=social&utm_source=twitter&hss_channel=tw-776585502606721024)  
 - [TorchServe](https://github.com/pytorch/serve) [Great Tool]    
-- [TorchServe Video Tutorial](https://www.youtube.com/watch?v=XlO7iQMV3Ik)  
+- [TorchServe Video Tutorial](https://www.youtube.com/watch?v=XlO7iQMV3Ik)
+- [LitServe: Easily serve AI models Lightning fast](https://github.com/Lightning-AI/litserve)  
 
 ## Convert PyTorch Models to C++:
 - [**Loading a PyTorch Model in C++**](https://pytorch.org/tutorials/advanced/cpp_export.html) [_**Fantastic**_]
